@@ -1,4 +1,4 @@
-package com.demo.MoneyMap.entity.enums;
+package com.demo.MoneyMap.beans.enums;
 
 /**
  * Enum representing the types of assets that can be managed in a portfolio.

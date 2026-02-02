@@ -1,7 +1,7 @@
 package com.demo.MoneyMap.repository;
 
-import com.demo.MoneyMap.entity.Asset;
-import com.demo.MoneyMap.entity.enums.AssetType;
+import com.demo.MoneyMap.beans.Asset;
+import com.demo.MoneyMap.beans.enums.AssetType;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

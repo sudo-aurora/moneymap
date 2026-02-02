@@ -1,4 +1,4 @@
-package com.demo.MoneyMap.entity;
+package com.demo.MoneyMap.beans;
 
 import jakarta.persistence.*;
 import lombok.*;

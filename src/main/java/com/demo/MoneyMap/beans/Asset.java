@@ -1,4 +1,4 @@
-package com.demo.MoneyMap.entity;
+package com.demo.MoneyMap.beans;
 
 import com.demo.MoneyMap.entity.enums.AssetType;
 import com.demo.MoneyMap.entity.enums.TransactionType;

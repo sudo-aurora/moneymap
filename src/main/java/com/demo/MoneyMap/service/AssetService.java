@@ -3,7 +3,7 @@ package com.demo.MoneyMap.service;
 import com.demo.MoneyMap.dto.request.AssetRequestDTO;
 import com.demo.MoneyMap.dto.response.AssetResponseDTO;
 import com.demo.MoneyMap.dto.response.PagedResponseDTO;
-import com.demo.MoneyMap.entity.enums.AssetType;
+import com.demo.MoneyMap.beans.enums.AssetType;
 import org.springframework.data.domain.Pageable;
 
 import java.math.BigDecimal;

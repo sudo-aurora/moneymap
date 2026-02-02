@@ -1,7 +1,7 @@
 package com.demo.MoneyMap.dto.response;
 
-import com.demo.MoneyMap.entity.enums.AssetType;
-import com.demo.MoneyMap.entity.enums.TransactionType;
+import com.demo.MoneyMap.beans.enums.AssetType;
+import com.demo.MoneyMap.beans.enums.TransactionType;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.*;
 

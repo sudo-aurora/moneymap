@@ -2,7 +2,7 @@ package com.demo.MoneyMap.mapper;
 
 import com.demo.MoneyMap.dto.request.AssetRequestDTO;
 import com.demo.MoneyMap.dto.response.AssetResponseDTO;
-import com.demo.MoneyMap.entity.*;
+import com.demo.MoneyMap.beans.*;
 import org.springframework.stereotype.Component;
 
 /**

@@ -3,8 +3,8 @@ package com.demo.MoneyMap.mapper;
 import com.demo.MoneyMap.dto.request.PortfolioRequestDTO;
 import com.demo.MoneyMap.dto.response.AssetSummaryDTO;
 import com.demo.MoneyMap.dto.response.PortfolioResponseDTO;
-import com.demo.MoneyMap.entity.Asset;
-import com.demo.MoneyMap.entity.Portfolio;
+import com.demo.MoneyMap.beans.Asset;
+import com.demo.MoneyMap.beans.Portfolio;
 import org.springframework.stereotype.Component;
 
 import java.util.Collections;

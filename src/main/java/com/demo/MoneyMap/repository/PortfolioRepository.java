@@ -1,6 +1,6 @@
 package com.demo.MoneyMap.repository;
 
-import com.demo.MoneyMap.entity.Portfolio;
+import com.demo.MoneyMap.beans.Portfolio;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

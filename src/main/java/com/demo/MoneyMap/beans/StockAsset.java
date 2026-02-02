@@ -1,7 +1,7 @@
-package com.demo.MoneyMap.entity;
+package com.demo.MoneyMap.beans;
 
-import com.demo.MoneyMap.entity.enums.AssetType;
-import com.demo.MoneyMap.entity.enums.TransactionType;
+import com.demo.MoneyMap.beans.enums.AssetType;
+import com.demo.MoneyMap.beans.TransactionType;
 import jakarta.persistence.*;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
